@@ -10,4 +10,5 @@ The project follows a standard web design :
 
 **HTML**
 **CSS**
+Its just a landing page and there is no functionality in this website.
 
